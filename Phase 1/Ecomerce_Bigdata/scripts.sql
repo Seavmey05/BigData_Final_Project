@@ -1,7 +1,4 @@
--- ==============================================================================
--- E-Commerce SQLite Analytics Queries
--- File: scripts.sql
--- ==============================================================================
+
 
 -- Query 1: Total revenue, order count, and average order value by product category (net of discounts).
 SELECT 
