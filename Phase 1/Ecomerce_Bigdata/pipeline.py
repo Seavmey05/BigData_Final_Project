@@ -102,7 +102,7 @@ df_mom_trend.to_csv('mom_trend.csv', index=False)
 df_return_rates.to_csv('return_rates.csv', index=False)
 df_payment_mix.to_csv('payment_mix.csv', index=False)
 
-print("✅ Data exported to CSV successfully!")
+print("Data exported to CSV successfully!")
 
 
 import pandas as pd
