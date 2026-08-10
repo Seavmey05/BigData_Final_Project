@@ -1,4 +1,4 @@
-Sure! **Phase 3 is basically the "math and statistics" part of your project.** You take the clean data from Phase 2 and use **NumPy** to calculate useful results.
+**Phase 3 is basically the "math and statistics" part of your project.** You take the clean data from Phase 2 and use **NumPy** to calculate useful results.
 
 ### Phase 3 has only 4 main tasks:
 
