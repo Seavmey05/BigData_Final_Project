@@ -1,301 +1,301 @@
-product_id,name,category,subcategory,unit_price,cost,price_outlier
-1,Black Camera,Electronics,Cameras,433.54,224.24,False
-2,Maintain Laptop,Electronics,Laptops,807.37,351.48,False
-3,Start Accessorie,Electronics,Accessories,978.72,367.95,False
-4,Movement Headphone,Electronics,Headphones,17.97,12.57,False
-5,Yeah Smartphone,Electronics,Smartphones,503.34,180.1,False
-6,Important Laptop,Electronics,Laptops,531.19,192.72,False
-7,Beyond Accessorie,Electronics,Accessories,357.42,167.06,False
-8,Plant Smartphone,Electronics,Smartphones,295.82,122.24,False
-9,Right Laptop,Electronics,Laptops,66.57,26.82,False
-10,After Laptop,Electronics,Laptops,309.24,235.47,False
-11,Change Smartphone,Electronics,Smartphones,216.27,129.85,False
-12,Get Smartphone,Electronics,Smartphones,156.75,77.9,False
-13,Support Headphone,Electronics,Headphones,152.16,71.45,False
-14,Find Headphone,Electronics,Headphones,90.93,61.01,False
-15,Sea Headphone,Electronics,Headphones,536.46,192.64,False
-16,Yes Smartphone,Electronics,Smartphones,245.66,101.09,False
-17,Light Laptop,Electronics,Laptops,953.82,375.23,False
-18,Rest Camera,Electronics,Cameras,35.67,20.03,False
-19,Improve Smartphone,Electronics,Smartphones,727.02,269.65,False
-20,Arm Accessorie,Electronics,Accessories,548.49,335.04,False
-21,Right Camera,Electronics,Cameras,614.24,247.11,False
-22,Scientist Smartphone,Electronics,Smartphones,205.71,98.81,False
-23,Cost Headphone,Electronics,Headphones,235.35,174.8,False
-24,Concern Headphone,Electronics,Headphones,696.97,282.68,False
-25,Protect Headphone,Electronics,Headphones,282.92,149.7,False
-26,Agent Laptop,Electronics,Laptops,259.69,123.49,False
-27,Into Laptop,Electronics,Laptops,686.85,342.59,False
-28,Series Accessorie,Electronics,Accessories,749.19,279.01,False
-29,Pressure Accessorie,Electronics,Accessories,103.82,57.5,False
-30,Hospital Laptop,Electronics,Laptops,477.17,214.5,False
-31,Wide Laptop,Electronics,Laptops,976.57,373.86,False
-32,East Smartphone,Electronics,Smartphones,338.4,127.28,False
-33,Forward Accessorie,Electronics,Accessories,217.73,78.93,False
-34,Television Laptop,Electronics,Laptops,399.8,208.52,False
-35,Wide Camera,Electronics,Cameras,425.48,268.86,False
-36,Work Smartphone,Electronics,Smartphones,749.87,321.49,False
-37,Executive Laptop,Electronics,Laptops,608.8,285.91,False
-38,Say Camera,Electronics,Cameras,364.99,233.95,False
-39,Yeah Laptop,Electronics,Laptops,412.64,256.52,False
-40,Because Laptop,Electronics,Laptops,171.89,75.68,False
-41,Rest Smartphone,Electronics,Smartphones,376.48,158.48,False
-42,Cost Camera,Electronics,Cameras,328.75,216.35,False
-43,A Laptop,Electronics,Laptops,97.72,52.4,False
-44,Walk Camera,Electronics,Cameras,6.81,4.3,False
-45,Beautiful Camera,Electronics,Cameras,511.39,183.54,False
-46,Reflect Laptop,Electronics,Laptops,397.56,205.91,False
-47,Central Camera,Electronics,Cameras,513.39,252.36,False
-48,Court Camera,Electronics,Cameras,231.62,156.59,False
-49,Left Laptop,Electronics,Laptops,850.7,304.77,False
-50,Wear Headphone,Electronics,Headphones,240.1,113.11,False
-51,Former Cookware,Home & Kitchen,Cookware,863.34,370.52,False
-52,Still Cookware,Home & Kitchen,Cookware,12.48,6.91,False
-53,Student Decor,Home & Kitchen,Decor,192.38,115.82,False
-54,We Decor,Home & Kitchen,Decor,679.71,371.36,False
-55,Others Cookware,Home & Kitchen,Cookware,395.52,222.82,False
-56,Heavy Appliance,Home & Kitchen,Appliances,186.07,83.65,False
-57,Try Cookware,Home & Kitchen,Cookware,510.39,229.78,False
-58,Artist Appliance,Home & Kitchen,Appliances,87.55,52.45,False
-59,Action Furniture,Home & Kitchen,Furniture,287.12,185.42,False
-60,Coach Furniture,Home & Kitchen,Furniture,148.68,113.95,False
-61,Trade Appliance,Home & Kitchen,Appliances,512.76,233.12,False
-62,Key Furniture,Home & Kitchen,Furniture,244.7,95.18,False
-63,Song Appliance,Home & Kitchen,Appliances,430.39,178.68,False
-64,Task Appliance,Home & Kitchen,Appliances,29.71,12.14,False
-65,Scene Appliance,Home & Kitchen,Appliances,460.75,176.35,False
-66,Wide Cookware,Home & Kitchen,Cookware,447.18,201.12,False
-67,Apply Furniture,Home & Kitchen,Furniture,355.8,151.07,False
-68,Bar Appliance,Home & Kitchen,Appliances,133.13,69.85,False
-69,Front Decor,Home & Kitchen,Decor,274.11,163.83,False
-70,Bring Furniture,Home & Kitchen,Furniture,402.01,153.64,False
-71,Green Furniture,Home & Kitchen,Furniture,362.18,259.25,False
-72,Difficult Cookware,Home & Kitchen,Cookware,286.08,157.38,False
-73,Travel Appliance,Home & Kitchen,Appliances,346.78,176.21,False
-74,Serve Appliance,Home & Kitchen,Appliances,171.2,104.21,False
-75,Wonder Decor,Home & Kitchen,Decor,299.66,192.98,False
-76,Cover Furniture,Home & Kitchen,Furniture,938.11,338.82,False
-77,What Furniture,Home & Kitchen,Furniture,103.53,38.72,False
-78,Unit Cookware,Home & Kitchen,Cookware,213.82,102.41,False
-79,Hand Furniture,Home & Kitchen,Furniture,308.93,119.38,False
-80,Success Furniture,Home & Kitchen,Furniture,166.05,93.95,False
-81,Real Furniture,Home & Kitchen,Furniture,779.01,349.11,False
-82,Rich Furniture,Home & Kitchen,Furniture,235.49,117.43,False
-83,Rich Furniture,Home & Kitchen,Furniture,243.1,96.79,False
-84,Per Cookware,Home & Kitchen,Cookware,43.2,29.75,False
-85,Event Furniture,Home & Kitchen,Furniture,530.7,214.98,False
-86,Less Decor,Home & Kitchen,Decor,443.6,290.11,False
-87,Property Furniture,Home & Kitchen,Furniture,564.0,315.4,False
-88,Voice Decor,Home & Kitchen,Decor,275.21,206.76,False
-89,Prepare Cookware,Home & Kitchen,Cookware,247.06,159.34,False
-90,Group Furniture,Home & Kitchen,Furniture,219.22,99.04,False
-91,Almost Decor,Home & Kitchen,Decor,369.86,186.57,False
-92,Left Furniture,Home & Kitchen,Furniture,148.78,67.35,False
-93,Fear Appliance,Home & Kitchen,Appliances,98.57,56.95,False
-94,Animal Appliance,Home & Kitchen,Appliances,514.73,271.98,False
-95,They Appliance,Home & Kitchen,Appliances,711.68,355.85,False
-96,Mind Decor,Home & Kitchen,Decor,682.77,315.19,False
-97,Black Appliance,Home & Kitchen,Appliances,628.48,301.4,False
-98,Southern Appliance,Home & Kitchen,Appliances,71.96,53.12,False
-99,Level Decor,Home & Kitchen,Decor,496.87,337.25,False
-100,Sea Appliance,Home & Kitchen,Appliances,283.25,152.25,False
-101,Cut Women,Apparel,Women,488.42,300.87,False
-102,Three Women,Apparel,Women,396.98,181.63,False
-103,Carry Women,Apparel,Women,456.96,260.68,False
-104,Major Men,Apparel,Men,957.31,360.5,False
-105,Physical Footwear,Apparel,Footwear,375.87,188.14,False
-106,Oil Footwear,Apparel,Footwear,150.04,54.77,False
-107,Appear Women,Apparel,Women,963.92,359.12,False
-108,Word Men,Apparel,Men,378.75,142.17,False
-109,Health Footwear,Apparel,Footwear,59.23,34.02,False
-110,Section Footwear,Apparel,Footwear,52.92,19.09,False
-111,Situation Men,Apparel,Men,227.31,142.94,False
-112,Performance Women,Apparel,Women,10.73,7.39,False
-113,Represent Kid,Apparel,Kids,55.28,26.78,False
-114,History Kid,Apparel,Kids,23.97,12.58,False
-115,Quickly Footwear,Apparel,Footwear,251.88,140.73,False
-116,Ahead Men,Apparel,Men,862.37,353.76,False
-117,White Men,Apparel,Men,567.69,267.53,False
-118,During Men,Apparel,Men,611.17,399.46,False
-119,Reflect Kid,Apparel,Kids,519.85,265.26,False
-120,Society Kid,Apparel,Kids,146.96,60.15,False
-121,Themselves Footwear,Apparel,Footwear,183.38,112.48,False
-122,Attorney Men,Apparel,Men,607.34,381.56,False
-123,Anything Footwear,Apparel,Footwear,840.94,320.39,False
-124,Act Kid,Apparel,Kids,640.23,396.2,False
-125,Increase Women,Apparel,Women,584.13,343.96,False
-126,Field Men,Apparel,Men,240.49,89.98,False
-127,Research Footwear,Apparel,Footwear,111.4,48.35,False
-128,Pretty Kid,Apparel,Kids,686.4,247.87,False
-129,Direction Kid,Apparel,Kids,492.47,232.09,False
-130,Fly Kid,Apparel,Kids,454.11,253.72,False
-131,Spring Kid,Apparel,Kids,797.13,323.06,False
-132,Set Men,Apparel,Men,299.38,175.25,False
-133,Actually Kid,Apparel,Kids,479.79,201.05,False
-134,Democrat Kid,Apparel,Kids,541.79,321.26,False
-135,Road Women,Apparel,Women,550.83,338.26,False
-136,Watch Footwear,Apparel,Footwear,974.39,362.35,False
-137,Particular Kid,Apparel,Kids,316.92,166.82,False
-138,By Kid,Apparel,Kids,54.35,35.21,False
-139,About Men,Apparel,Men,835.42,310.66,False
-140,Fall Footwear,Apparel,Footwear,500.02,326.58,False
-141,Happen Men,Apparel,Men,251.45,135.51,False
-142,Card Footwear,Apparel,Footwear,717.32,352.01,False
-143,Writer Women,Apparel,Women,421.93,163.91,False
-144,Almost Women,Apparel,Women,299.76,136.44,False
-145,Unit Men,Apparel,Men,61.15,42.96,False
-146,Difficult Women,Apparel,Women,443.54,217.53,False
-147,Later Women,Apparel,Women,517.03,396.76,False
-148,Answer Women,Apparel,Women,304.48,118.69,False
-149,Move Kid,Apparel,Kids,382.77,267.43,False
-150,Population Kid,Apparel,Kids,182.12,134.07,False
-151,Say Fitnes,Sports & Outdoors,Fitness,625.19,246.9,False
-152,Soon Camping,Sports & Outdoors,Camping,910.86,359.13,False
-153,Feel Cycling,Sports & Outdoors,Cycling,530.38,238.57,False
-154,Attack Cycling,Sports & Outdoors,Cycling,115.68,58.03,False
-155,Away Camping,Sports & Outdoors,Camping,607.36,258.46,False
-156,Occur Camping,Sports & Outdoors,Camping,372.8,276.55,False
-157,First Camping,Sports & Outdoors,Camping,701.5,278.88,False
-158,Produce Cycling,Sports & Outdoors,Cycling,282.03,119.58,False
-159,Positive Camping,Sports & Outdoors,Camping,818.3,318.32,False
-160,Where Camping,Sports & Outdoors,Camping,150.1,98.55,False
-161,Between Fitnes,Sports & Outdoors,Fitness,68.77,26.32,False
-162,Do Team Sport,Sports & Outdoors,Team Sports,126.53,53.07,False
-163,Ready Cycling,Sports & Outdoors,Cycling,598.68,276.03,False
-164,Great Team Sport,Sports & Outdoors,Team Sports,446.58,165.72,False
-165,Up Cycling,Sports & Outdoors,Cycling,605.76,375.16,False
-166,Power Fitnes,Sports & Outdoors,Fitness,278.38,147.59,False
-167,Practice Fitnes,Sports & Outdoors,Fitness,39.88,15.46,False
-168,Wait Camping,Sports & Outdoors,Camping,649.6,325.57,False
-169,Contain Cycling,Sports & Outdoors,Cycling,458.05,181.5,False
-170,Offer Team Sport,Sports & Outdoors,Team Sports,723.66,264.39,False
-171,Her Camping,Sports & Outdoors,Camping,14.73,5.95,False
-172,Half Team Sport,Sports & Outdoors,Team Sports,104.56,40.01,False
-173,Soon Fitnes,Sports & Outdoors,Fitness,587.7,354.03,False
-174,Social Cycling,Sports & Outdoors,Cycling,864.84,363.2,False
-175,Either Fitnes,Sports & Outdoors,Fitness,600.57,253.72,False
-176,Where Cycling,Sports & Outdoors,Cycling,199.39,136.86,False
-177,Hour Camping,Sports & Outdoors,Camping,156.12,86.79,False
-178,Rich Cycling,Sports & Outdoors,Cycling,563.12,213.76,False
-179,Our Camping,Sports & Outdoors,Camping,478.65,175.67,False
-180,Grow Team Sport,Sports & Outdoors,Team Sports,843.45,385.76,False
-181,Choice Team Sport,Sports & Outdoors,Team Sports,37.18,20.67,False
-182,Answer Fitnes,Sports & Outdoors,Fitness,500.91,191.38,False
-183,High Camping,Sports & Outdoors,Camping,942.96,369.47,False
-184,Important Cycling,Sports & Outdoors,Cycling,278.4,122.21,False
-185,Avoid Camping,Sports & Outdoors,Camping,582.19,268.37,False
-186,Along Fitnes,Sports & Outdoors,Fitness,290.81,213.7,False
-187,Artist Team Sport,Sports & Outdoors,Team Sports,127.57,97.88,False
-188,Involve Fitnes,Sports & Outdoors,Fitness,550.0,321.55,False
-189,Message Team Sport,Sports & Outdoors,Team Sports,24.7,9.49,False
-190,Over Cycling,Sports & Outdoors,Cycling,707.42,308.25,False
-191,Yeah Camping,Sports & Outdoors,Camping,457.7,215.03,False
-192,Participant Camping,Sports & Outdoors,Camping,697.79,370.47,False
-193,Add Camping,Sports & Outdoors,Camping,351.11,219.39,False
-194,Quickly Fitnes,Sports & Outdoors,Fitness,222.76,133.52,False
-195,After Fitnes,Sports & Outdoors,Fitness,132.26,54.56,False
-196,Information Cycling,Sports & Outdoors,Cycling,518.75,269.71,False
-197,Own Camping,Sports & Outdoors,Camping,538.79,292.48,False
-198,Later Cycling,Sports & Outdoors,Cycling,266.02,125.87,False
-199,Yes Fitnes,Sports & Outdoors,Fitness,51.0,33.26,False
-200,White Fitnes,Sports & Outdoors,Fitness,533.81,381.57,False
-201,When Supplement,Beauty & Health,Supplements,567.68,386.16,False
-202,Thank Skincare,Beauty & Health,Skincare,514.85,201.68,False
-203,Officer Skincare,Beauty & Health,Skincare,431.09,194.05,False
-204,Artist Supplement,Beauty & Health,Supplements,578.66,316.23,False
-205,Back Haircare,Beauty & Health,Haircare,367.74,219.49,False
-206,Office Skincare,Beauty & Health,Skincare,612.54,396.87,False
-207,Impact Haircare,Beauty & Health,Haircare,518.71,193.04,False
-208,Series Skincare,Beauty & Health,Skincare,260.07,138.05,False
-209,Leg Skincare,Beauty & Health,Skincare,797.01,323.49,False
-210,Me Haircare,Beauty & Health,Haircare,177.09,78.49,False
-211,Everyone Skincare,Beauty & Health,Skincare,943.9,390.53,False
-212,Another Personal Care,Beauty & Health,Personal Care,445.65,224.31,False
-213,Star Supplement,Beauty & Health,Supplements,111.83,82.05,False
-214,Safe Skincare,Beauty & Health,Skincare,304.46,229.66,False
-215,Want Supplement,Beauty & Health,Supplements,501.1,260.54,False
-216,Effort Supplement,Beauty & Health,Supplements,492.92,345.22,False
-217,Measure Skincare,Beauty & Health,Skincare,479.18,238.38,False
-218,Month Supplement,Beauty & Health,Supplements,127.17,50.54,False
-219,Example Supplement,Beauty & Health,Supplements,211.99,100.68,False
-220,Run Skincare,Beauty & Health,Skincare,475.38,343.89,False
-221,Response Haircare,Beauty & Health,Haircare,704.75,279.27,False
-222,Car Supplement,Beauty & Health,Supplements,264.61,137.96,False
-223,Sense Supplement,Beauty & Health,Supplements,57.85,32.82,False
-224,Voice Skincare,Beauty & Health,Skincare,23.12,13.38,False
-225,Discover Skincare,Beauty & Health,Skincare,939.11,348.19,False
-226,Recognize Skincare,Beauty & Health,Skincare,211.98,146.93,False
-227,Daughter Supplement,Beauty & Health,Supplements,192.19,129.37,False
-228,Over Skincare,Beauty & Health,Skincare,162.75,94.91,False
-229,Thus Skincare,Beauty & Health,Skincare,690.53,325.2,False
-230,Fight Supplement,Beauty & Health,Supplements,829.69,362.81,False
-231,Food Personal Care,Beauty & Health,Personal Care,410.59,301.66,False
-232,Partner Personal Care,Beauty & Health,Personal Care,71.83,39.91,False
-233,Say Haircare,Beauty & Health,Haircare,82.49,30.29,False
-234,House Skincare,Beauty & Health,Skincare,486.72,356.89,False
-235,Training Personal Care,Beauty & Health,Personal Care,370.09,218.16,False
-236,Down Haircare,Beauty & Health,Haircare,55.21,35.56,False
-237,Against Skincare,Beauty & Health,Skincare,335.88,253.44,False
-238,Able Haircare,Beauty & Health,Haircare,192.17,70.24,False
-239,Increase Haircare,Beauty & Health,Haircare,517.8,395.89,False
-240,Military Supplement,Beauty & Health,Supplements,555.47,231.95,False
-241,Low Personal Care,Beauty & Health,Personal Care,306.12,220.38,False
-242,Huge Personal Care,Beauty & Health,Personal Care,166.1,79.41,False
-243,Son Personal Care,Beauty & Health,Personal Care,746.93,389.57,False
-244,Thus Supplement,Beauty & Health,Supplements,263.25,101.87,False
-245,Throughout Personal Care,Beauty & Health,Personal Care,11506.5,104.23,True
-246,Close Personal Care,Beauty & Health,Personal Care,574.84,237.52,False
-247,Good Haircare,Beauty & Health,Haircare,708.26,326.34,False
-248,Generation Haircare,Beauty & Health,Haircare,75.61,55.58,False
-249,Across Skincare,Beauty & Health,Skincare,682.27,293.31,False
-250,Discover Haircare,Beauty & Health,Haircare,8284.0,112.79,True
-251,College Fiction,Books & Media,Fiction,439.11,332.5,False
-252,Property Non-Fiction,Books & Media,Non-Fiction,274.43,180.49,False
-253,Happen Fiction,Books & Media,Fiction,621.95,347.91,False
-254,Them Children,Books & Media,Children,286.86,179.03,False
-255,Activity Non-Fiction,Books & Media,Non-Fiction,249.2,157.52,False
-256,Baby Non-Fiction,Books & Media,Non-Fiction,537.93,197.5,False
-257,Minute Children,Books & Media,Children,8.4,4.21,False
-258,Difference Fiction,Books & Media,Fiction,626.09,300.08,False
-259,Hundred Fiction,Books & Media,Fiction,533.22,352.88,False
-260,Form Media,Books & Media,Media,619.66,308.31,False
-261,Especially Fiction,Books & Media,Fiction,429.63,235.83,False
-262,Case Media,Books & Media,Media,214.85,82.77,False
-263,Way Media,Books & Media,Media,222.36,110.05,False
-264,Include Non-Fiction,Books & Media,Non-Fiction,16.2,9.81,False
-265,Create Non-Fiction,Books & Media,Non-Fiction,839.64,394.64,False
-266,Feeling Non-Fiction,Books & Media,Non-Fiction,110.99,46.6,False
-267,Born Fiction,Books & Media,Fiction,253.7,110.91,False
-268,Machine Media,Books & Media,Media,23.79,11.06,False
-269,Note Non-Fiction,Books & Media,Non-Fiction,603.81,359.81,False
-270,Environmental Non-Fiction,Books & Media,Non-Fiction,34872.0,252.13,True
-271,Create Children,Books & Media,Children,756.22,308.09,False
-272,Pass Children,Books & Media,Children,5.69,3.58,False
-273,Ask Children,Books & Media,Children,560.24,289.19,False
-274,Product Children,Books & Media,Children,528.78,235.72,False
-275,Culture Children,Books & Media,Children,82.62,41.15,False
-276,Recently Non-Fiction,Books & Media,Non-Fiction,341.21,131.91,False
-277,Your Non-Fiction,Books & Media,Non-Fiction,437.32,214.4,False
-278,Page Fiction,Books & Media,Fiction,402.71,276.82,False
-279,Scientist Non-Fiction,Books & Media,Non-Fiction,226.81,166.06,False
-280,Start Fiction,Books & Media,Fiction,121.8,43.74,False
-281,Citizen Non-Fiction,Books & Media,Non-Fiction,146.98,90.63,False
-282,Discuss Fiction,Books & Media,Fiction,280.61,104.81,False
-283,Strategy Children,Books & Media,Children,680.49,258.28,False
-284,Do Fiction,Books & Media,Fiction,228.9,138.3,False
-285,Foot Children,Books & Media,Children,667.54,317.07,False
-286,Give Non-Fiction,Books & Media,Non-Fiction,47.93,20.54,False
-287,Total Fiction,Books & Media,Fiction,754.14,370.71,False
-288,Beyond Media,Books & Media,Media,515.26,355.32,False
-289,Available Non-Fiction,Books & Media,Non-Fiction,635.36,370.15,False
-290,Administration Children,Books & Media,Children,908.96,374.06,False
-291,Since Non-Fiction,Books & Media,Non-Fiction,19.78,13.68,False
-292,Store Fiction,Books & Media,Fiction,425.68,267.92,False
-293,Almost Non-Fiction,Books & Media,Non-Fiction,709.48,295.78,False
-294,Owner Non-Fiction,Books & Media,Non-Fiction,141.94,81.46,False
-295,Among Media,Books & Media,Media,139.02,92.57,False
-296,Question Non-Fiction,Books & Media,Non-Fiction,361.73,148.56,False
-297,Want Media,Books & Media,Media,89.43,64.11,False
-298,Wait Media,Books & Media,Media,238.39,153.1,False
-299,Know Non-Fiction,Books & Media,Non-Fiction,725.08,274.72,False
-300,Those Non-Fiction,Books & Media,Non-Fiction,133.29,87.08,False
+product_id,name,category,subcategory,unit_price,cost
+1,Black Camera,Electronics,Cameras,433.54,224.24
+2,Maintain Laptop,Electronics,Laptops,807.37,351.48
+3,Start Accessorie,Electronics,Accessories,978.72,367.95
+4,Movement Headphone,Electronics,Headphones,17.97,12.57
+5,Yeah Smartphone,Electronics,Smartphones,503.34,180.1
+6,Important Laptop,Electronics,Laptops,531.19,192.72
+7,Beyond Accessorie,Electronics,Accessories,357.42,167.06
+8,Plant Smartphone,Electronics,Smartphones,295.82,122.24
+9,Right Laptop,Electronics,Laptops,66.57,26.82
+10,After Laptop,Electronics,Laptops,309.24,235.47
+11,Change Smartphone,Electronics,Smartphones,216.27,129.85
+12,Get Smartphone,Electronics,Smartphones,156.75,77.9
+13,Support Headphone,Electronics,Headphones,152.16,71.45
+14,Find Headphone,Electronics,Headphones,90.93,61.01
+15,Sea Headphone,Electronics,Headphones,536.46,192.64
+16,Yes Smartphone,Electronics,Smartphones,245.66,101.09
+17,Light Laptop,Electronics,Laptops,953.82,375.23
+18,Rest Camera,Electronics,Cameras,35.67,20.03
+19,Improve Smartphone,Electronics,Smartphones,727.02,269.65
+20,Arm Accessorie,Electronics,Accessories,548.49,335.04
+21,Right Camera,Electronics,Cameras,614.24,247.11
+22,Scientist Smartphone,Electronics,Smartphones,205.71,98.81
+23,Cost Headphone,Electronics,Headphones,235.35,174.8
+24,Concern Headphone,Electronics,Headphones,696.97,282.68
+25,Protect Headphone,Electronics,Headphones,282.92,149.7
+26,Agent Laptop,Electronics,Laptops,259.69,123.49
+27,Into Laptop,Electronics,Laptops,686.85,342.59
+28,Series Accessorie,Electronics,Accessories,749.19,279.01
+29,Pressure Accessorie,Electronics,Accessories,103.82,57.5
+30,Hospital Laptop,Electronics,Laptops,477.17,214.5
+31,Wide Laptop,Electronics,Laptops,976.57,373.86
+32,East Smartphone,Electronics,Smartphones,338.4,127.28
+33,Forward Accessorie,Electronics,Accessories,217.73,78.93
+34,Television Laptop,Electronics,Laptops,399.8,208.52
+35,Wide Camera,Electronics,Cameras,425.48,268.86
+36,Work Smartphone,Electronics,Smartphones,749.87,321.49
+37,Executive Laptop,Electronics,Laptops,608.8,285.91
+38,Say Camera,Electronics,Cameras,364.99,233.95
+39,Yeah Laptop,Electronics,Laptops,412.64,256.52
+40,Because Laptop,Electronics,Laptops,171.89,75.68
+41,Rest Smartphone,Electronics,Smartphones,376.48,158.48
+42,Cost Camera,Electronics,Cameras,328.75,216.35
+43,A Laptop,Electronics,Laptops,97.72,52.4
+44,Walk Camera,Electronics,Cameras,6.81,4.3
+45,Beautiful Camera,Electronics,Cameras,511.39,183.54
+46,Reflect Laptop,Electronics,Laptops,397.56,205.91
+47,Central Camera,Electronics,Cameras,513.39,252.36
+48,Court Camera,Electronics,Cameras,231.62,156.59
+49,Left Laptop,Electronics,Laptops,850.7,304.77
+50,Wear Headphone,Electronics,Headphones,240.1,113.11
+51,Former Cookware,Home & Kitchen,Cookware,863.34,370.52
+52,Still Cookware,Home & Kitchen,Cookware,12.48,6.91
+53,Student Decor,Home & Kitchen,Decor,192.38,115.82
+54,We Decor,Home & Kitchen,Decor,679.71,371.36
+55,Others Cookware,Home & Kitchen,Cookware,395.52,222.82
+56,Heavy Appliance,Home & Kitchen,Appliances,186.07,83.65
+57,Try Cookware,Home & Kitchen,Cookware,510.39,229.78
+58,Artist Appliance,Home & Kitchen,Appliances,87.55,52.45
+59,Action Furniture,Home & Kitchen,Furniture,287.12,185.42
+60,Coach Furniture,Home & Kitchen,Furniture,148.68,113.95
+61,Trade Appliance,Home & Kitchen,Appliances,512.76,233.12
+62,Key Furniture,Home & Kitchen,Furniture,244.7,95.18
+63,Song Appliance,Home & Kitchen,Appliances,430.39,178.68
+64,Task Appliance,Home & Kitchen,Appliances,29.71,12.14
+65,Scene Appliance,Home & Kitchen,Appliances,460.75,176.35
+66,Wide Cookware,Home & Kitchen,Cookware,447.18,201.12
+67,Apply Furniture,Home & Kitchen,Furniture,355.8,151.07
+68,Bar Appliance,Home & Kitchen,Appliances,133.13,69.85
+69,Front Decor,Home & Kitchen,Decor,274.11,163.83
+70,Bring Furniture,Home & Kitchen,Furniture,402.01,153.64
+71,Green Furniture,Home & Kitchen,Furniture,362.18,259.25
+72,Difficult Cookware,Home & Kitchen,Cookware,286.08,157.38
+73,Travel Appliance,Home & Kitchen,Appliances,346.78,176.21
+74,Serve Appliance,Home & Kitchen,Appliances,171.2,104.21
+75,Wonder Decor,Home & Kitchen,Decor,299.66,192.98
+76,Cover Furniture,Home & Kitchen,Furniture,938.11,338.82
+77,What Furniture,Home & Kitchen,Furniture,103.53,38.72
+78,Unit Cookware,Home & Kitchen,Cookware,213.82,102.41
+79,Hand Furniture,Home & Kitchen,Furniture,308.93,119.38
+80,Success Furniture,Home & Kitchen,Furniture,166.05,93.95
+81,Real Furniture,Home & Kitchen,Furniture,779.01,349.11
+82,Rich Furniture,Home & Kitchen,Furniture,235.49,117.43
+83,Rich Furniture,Home & Kitchen,Furniture,243.1,96.79
+84,Per Cookware,Home & Kitchen,Cookware,43.2,29.75
+85,Event Furniture,Home & Kitchen,Furniture,530.7,214.98
+86,Less Decor,Home & Kitchen,Decor,443.6,290.11
+87,Property Furniture,Home & Kitchen,Furniture,564.0,315.4
+88,Voice Decor,Home & Kitchen,Decor,275.21,206.76
+89,Prepare Cookware,Home & Kitchen,Cookware,247.06,159.34
+90,Group Furniture,Home & Kitchen,Furniture,219.22,99.04
+91,Almost Decor,Home & Kitchen,Decor,369.86,186.57
+92,Left Furniture,Home & Kitchen,Furniture,148.78,67.35
+93,Fear Appliance,Home & Kitchen,Appliances,98.57,56.95
+94,Animal Appliance,Home & Kitchen,Appliances,514.73,271.98
+95,They Appliance,Home & Kitchen,Appliances,711.68,355.85
+96,Mind Decor,Home & Kitchen,Decor,682.77,315.19
+97,Black Appliance,Home & Kitchen,Appliances,628.48,301.4
+98,Southern Appliance,Home & Kitchen,Appliances,71.96,53.12
+99,Level Decor,Home & Kitchen,Decor,496.87,337.25
+100,Sea Appliance,Home & Kitchen,Appliances,283.25,152.25
+101,Cut Women,Apparel,Women,488.42,300.87
+102,Three Women,Apparel,Women,396.98,181.63
+103,Carry Women,Apparel,Women,456.96,260.68
+104,Major Men,Apparel,Men,957.31,360.5
+105,Physical Footwear,Apparel,Footwear,375.87,188.14
+106,Oil Footwear,Apparel,Footwear,150.04,54.77
+107,Appear Women,Apparel,Women,963.92,359.12
+108,Word Men,Apparel,Men,378.75,142.17
+109,Health Footwear,Apparel,Footwear,59.23,34.02
+110,Section Footwear,Apparel,Footwear,52.92,19.09
+111,Situation Men,Apparel,Men,227.31,142.94
+112,Performance Women,Apparel,Women,10.73,7.39
+113,Represent Kid,Apparel,Kids,55.28,26.78
+114,History Kid,Apparel,Kids,23.97,12.58
+115,Quickly Footwear,Apparel,Footwear,251.88,140.73
+116,Ahead Men,Apparel,Men,862.37,353.76
+117,White Men,Apparel,Men,567.69,267.53
+118,During Men,Apparel,Men,611.17,399.46
+119,Reflect Kid,Apparel,Kids,519.85,265.26
+120,Society Kid,Apparel,Kids,146.96,60.15
+121,Themselves Footwear,Apparel,Footwear,183.38,112.48
+122,Attorney Men,Apparel,Men,607.34,381.56
+123,Anything Footwear,Apparel,Footwear,840.94,320.39
+124,Act Kid,Apparel,Kids,640.23,396.2
+125,Increase Women,Apparel,Women,584.13,343.96
+126,Field Men,Apparel,Men,240.49,89.98
+127,Research Footwear,Apparel,Footwear,111.4,48.35
+128,Pretty Kid,Apparel,Kids,686.4,247.87
+129,Direction Kid,Apparel,Kids,492.47,232.09
+130,Fly Kid,Apparel,Kids,454.11,253.72
+131,Spring Kid,Apparel,Kids,797.13,323.06
+132,Set Men,Apparel,Men,299.38,175.25
+133,Actually Kid,Apparel,Kids,479.79,201.05
+134,Democrat Kid,Apparel,Kids,541.79,321.26
+135,Road Women,Apparel,Women,550.83,338.26
+136,Watch Footwear,Apparel,Footwear,974.39,362.35
+137,Particular Kid,Apparel,Kids,316.92,166.82
+138,By Kid,Apparel,Kids,54.35,35.21
+139,About Men,Apparel,Men,835.42,310.66
+140,Fall Footwear,Apparel,Footwear,500.02,326.58
+141,Happen Men,Apparel,Men,251.45,135.51
+142,Card Footwear,Apparel,Footwear,717.32,352.01
+143,Writer Women,Apparel,Women,421.93,163.91
+144,Almost Women,Apparel,Women,299.76,136.44
+145,Unit Men,Apparel,Men,61.15,42.96
+146,Difficult Women,Apparel,Women,443.54,217.53
+147,Later Women,Apparel,Women,517.03,396.76
+148,Answer Women,Apparel,Women,304.48,118.69
+149,Move Kid,Apparel,Kids,382.77,267.43
+150,Population Kid,Apparel,Kids,182.12,134.07
+151,Say Fitnes,Sports & Outdoors,Fitness,625.19,246.9
+152,Soon Camping,Sports & Outdoors,Camping,910.86,359.13
+153,Feel Cycling,Sports & Outdoors,Cycling,530.38,238.57
+154,Attack Cycling,Sports & Outdoors,Cycling,115.68,58.03
+155,Away Camping,Sports & Outdoors,Camping,607.36,258.46
+156,Occur Camping,Sports & Outdoors,Camping,372.8,276.55
+157,First Camping,Sports & Outdoors,Camping,701.5,278.88
+158,Produce Cycling,Sports & Outdoors,Cycling,282.03,119.58
+159,Positive Camping,Sports & Outdoors,Camping,818.3,318.32
+160,Where Camping,Sports & Outdoors,Camping,150.1,98.55
+161,Between Fitnes,Sports & Outdoors,Fitness,68.77,26.32
+162,Do Team Sport,Sports & Outdoors,Team Sports,126.53,53.07
+163,Ready Cycling,Sports & Outdoors,Cycling,598.68,276.03
+164,Great Team Sport,Sports & Outdoors,Team Sports,446.58,165.72
+165,Up Cycling,Sports & Outdoors,Cycling,605.76,375.16
+166,Power Fitnes,Sports & Outdoors,Fitness,278.38,147.59
+167,Practice Fitnes,Sports & Outdoors,Fitness,39.88,15.46
+168,Wait Camping,Sports & Outdoors,Camping,649.6,325.57
+169,Contain Cycling,Sports & Outdoors,Cycling,458.05,181.5
+170,Offer Team Sport,Sports & Outdoors,Team Sports,723.66,264.39
+171,Her Camping,Sports & Outdoors,Camping,14.73,5.95
+172,Half Team Sport,Sports & Outdoors,Team Sports,104.56,40.01
+173,Soon Fitnes,Sports & Outdoors,Fitness,587.7,354.03
+174,Social Cycling,Sports & Outdoors,Cycling,864.84,363.2
+175,Either Fitnes,Sports & Outdoors,Fitness,600.57,253.72
+176,Where Cycling,Sports & Outdoors,Cycling,199.39,136.86
+177,Hour Camping,Sports & Outdoors,Camping,156.12,86.79
+178,Rich Cycling,Sports & Outdoors,Cycling,563.12,213.76
+179,Our Camping,Sports & Outdoors,Camping,478.65,175.67
+180,Grow Team Sport,Sports & Outdoors,Team Sports,843.45,385.76
+181,Choice Team Sport,Sports & Outdoors,Team Sports,37.18,20.67
+182,Answer Fitnes,Sports & Outdoors,Fitness,500.91,191.38
+183,High Camping,Sports & Outdoors,Camping,942.96,369.47
+184,Important Cycling,Sports & Outdoors,Cycling,278.4,122.21
+185,Avoid Camping,Sports & Outdoors,Camping,582.19,268.37
+186,Along Fitnes,Sports & Outdoors,Fitness,290.81,213.7
+187,Artist Team Sport,Sports & Outdoors,Team Sports,127.57,97.88
+188,Involve Fitnes,Sports & Outdoors,Fitness,550.0,321.55
+189,Message Team Sport,Sports & Outdoors,Team Sports,24.7,9.49
+190,Over Cycling,Sports & Outdoors,Cycling,707.42,308.25
+191,Yeah Camping,Sports & Outdoors,Camping,457.7,215.03
+192,Participant Camping,Sports & Outdoors,Camping,697.79,370.47
+193,Add Camping,Sports & Outdoors,Camping,351.11,219.39
+194,Quickly Fitnes,Sports & Outdoors,Fitness,222.76,133.52
+195,After Fitnes,Sports & Outdoors,Fitness,132.26,54.56
+196,Information Cycling,Sports & Outdoors,Cycling,518.75,269.71
+197,Own Camping,Sports & Outdoors,Camping,538.79,292.48
+198,Later Cycling,Sports & Outdoors,Cycling,266.02,125.87
+199,Yes Fitnes,Sports & Outdoors,Fitness,51.0,33.26
+200,White Fitnes,Sports & Outdoors,Fitness,533.81,381.57
+201,When Supplement,Beauty & Health,Supplements,567.68,386.16
+202,Thank Skincare,Beauty & Health,Skincare,514.85,201.68
+203,Officer Skincare,Beauty & Health,Skincare,431.09,194.05
+204,Artist Supplement,Beauty & Health,Supplements,578.66,316.23
+205,Back Haircare,Beauty & Health,Haircare,367.74,219.49
+206,Office Skincare,Beauty & Health,Skincare,612.54,396.87
+207,Impact Haircare,Beauty & Health,Haircare,518.71,193.04
+208,Series Skincare,Beauty & Health,Skincare,260.07,138.05
+209,Leg Skincare,Beauty & Health,Skincare,797.01,323.49
+210,Me Haircare,Beauty & Health,Haircare,177.09,78.49
+211,Everyone Skincare,Beauty & Health,Skincare,943.9,390.53
+212,Another Personal Care,Beauty & Health,Personal Care,445.65,224.31
+213,Star Supplement,Beauty & Health,Supplements,111.83,82.05
+214,Safe Skincare,Beauty & Health,Skincare,304.46,229.66
+215,Want Supplement,Beauty & Health,Supplements,501.1,260.54
+216,Effort Supplement,Beauty & Health,Supplements,492.92,345.22
+217,Measure Skincare,Beauty & Health,Skincare,479.18,238.38
+218,Month Supplement,Beauty & Health,Supplements,127.17,50.54
+219,Example Supplement,Beauty & Health,Supplements,211.99,100.68
+220,Run Skincare,Beauty & Health,Skincare,475.38,343.89
+221,Response Haircare,Beauty & Health,Haircare,704.75,279.27
+222,Car Supplement,Beauty & Health,Supplements,264.61,137.96
+223,Sense Supplement,Beauty & Health,Supplements,57.85,32.82
+224,Voice Skincare,Beauty & Health,Skincare,23.12,13.38
+225,Discover Skincare,Beauty & Health,Skincare,939.11,348.19
+226,Recognize Skincare,Beauty & Health,Skincare,211.98,146.93
+227,Daughter Supplement,Beauty & Health,Supplements,192.19,129.37
+228,Over Skincare,Beauty & Health,Skincare,162.75,94.91
+229,Thus Skincare,Beauty & Health,Skincare,690.53,325.2
+230,Fight Supplement,Beauty & Health,Supplements,829.69,362.81
+231,Food Personal Care,Beauty & Health,Personal Care,410.59,301.66
+232,Partner Personal Care,Beauty & Health,Personal Care,71.83,39.91
+233,Say Haircare,Beauty & Health,Haircare,82.49,30.29
+234,House Skincare,Beauty & Health,Skincare,486.72,356.89
+235,Training Personal Care,Beauty & Health,Personal Care,370.09,218.16
+236,Down Haircare,Beauty & Health,Haircare,55.21,35.56
+237,Against Skincare,Beauty & Health,Skincare,335.88,253.44
+238,Able Haircare,Beauty & Health,Haircare,192.17,70.24
+239,Increase Haircare,Beauty & Health,Haircare,517.8,395.89
+240,Military Supplement,Beauty & Health,Supplements,555.47,231.95
+241,Low Personal Care,Beauty & Health,Personal Care,306.12,220.38
+242,Huge Personal Care,Beauty & Health,Personal Care,166.1,79.41
+243,Son Personal Care,Beauty & Health,Personal Care,746.93,389.57
+244,Thus Supplement,Beauty & Health,Supplements,263.25,101.87
+245,Throughout Personal Care,Beauty & Health,Personal Care,11506.5,104.23
+246,Close Personal Care,Beauty & Health,Personal Care,574.84,237.52
+247,Good Haircare,Beauty & Health,Haircare,708.26,326.34
+248,Generation Haircare,Beauty & Health,Haircare,75.61,55.58
+249,Across Skincare,Beauty & Health,Skincare,682.27,293.31
+250,Discover Haircare,Beauty & Health,Haircare,8284.0,112.79
+251,College Fiction,Books & Media,Fiction,439.11,332.5
+252,Property Non-Fiction,Books & Media,Non-Fiction,274.43,180.49
+253,Happen Fiction,Books & Media,Fiction,621.95,347.91
+254,Them Children,Books & Media,Children,286.86,179.03
+255,Activity Non-Fiction,Books & Media,Non-Fiction,249.2,157.52
+256,Baby Non-Fiction,Books & Media,Non-Fiction,537.93,197.5
+257,Minute Children,Books & Media,Children,8.4,4.21
+258,Difference Fiction,Books & Media,Fiction,626.09,300.08
+259,Hundred Fiction,Books & Media,Fiction,533.22,352.88
+260,Form Media,Books & Media,Media,619.66,308.31
+261,Especially Fiction,Books & Media,Fiction,429.63,235.83
+262,Case Media,Books & Media,Media,214.85,82.77
+263,Way Media,Books & Media,Media,222.36,110.05
+264,Include Non-Fiction,Books & Media,Non-Fiction,16.2,9.81
+265,Create Non-Fiction,Books & Media,Non-Fiction,839.64,394.64
+266,Feeling Non-Fiction,Books & Media,Non-Fiction,110.99,46.6
+267,Born Fiction,Books & Media,Fiction,253.7,110.91
+268,Machine Media,Books & Media,Media,23.79,11.06
+269,Note Non-Fiction,Books & Media,Non-Fiction,603.81,359.81
+270,Environmental Non-Fiction,Books & Media,Non-Fiction,34872.0,252.13
+271,Create Children,Books & Media,Children,756.22,308.09
+272,Pass Children,Books & Media,Children,5.69,3.58
+273,Ask Children,Books & Media,Children,560.24,289.19
+274,Product Children,Books & Media,Children,528.78,235.72
+275,Culture Children,Books & Media,Children,82.62,41.15
+276,Recently Non-Fiction,Books & Media,Non-Fiction,341.21,131.91
+277,Your Non-Fiction,Books & Media,Non-Fiction,437.32,214.4
+278,Page Fiction,Books & Media,Fiction,402.71,276.82
+279,Scientist Non-Fiction,Books & Media,Non-Fiction,226.81,166.06
+280,Start Fiction,Books & Media,Fiction,121.8,43.74
+281,Citizen Non-Fiction,Books & Media,Non-Fiction,146.98,90.63
+282,Discuss Fiction,Books & Media,Fiction,280.61,104.81
+283,Strategy Children,Books & Media,Children,680.49,258.28
+284,Do Fiction,Books & Media,Fiction,228.9,138.3
+285,Foot Children,Books & Media,Children,667.54,317.07
+286,Give Non-Fiction,Books & Media,Non-Fiction,47.93,20.54
+287,Total Fiction,Books & Media,Fiction,754.14,370.71
+288,Beyond Media,Books & Media,Media,515.26,355.32
+289,Available Non-Fiction,Books & Media,Non-Fiction,635.36,370.15
+290,Administration Children,Books & Media,Children,908.96,374.06
+291,Since Non-Fiction,Books & Media,Non-Fiction,19.78,13.68
+292,Store Fiction,Books & Media,Fiction,425.68,267.92
+293,Almost Non-Fiction,Books & Media,Non-Fiction,709.48,295.78
+294,Owner Non-Fiction,Books & Media,Non-Fiction,141.94,81.46
+295,Among Media,Books & Media,Media,139.02,92.57
+296,Question Non-Fiction,Books & Media,Non-Fiction,361.73,148.56
+297,Want Media,Books & Media,Media,89.43,64.11
+298,Wait Media,Books & Media,Media,238.39,153.1
+299,Know Non-Fiction,Books & Media,Non-Fiction,725.08,274.72
+300,Those Non-Fiction,Books & Media,Non-Fiction,133.29,87.08
